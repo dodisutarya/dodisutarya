@@ -1,4 +1,17 @@
-### Hi there 👋
+### Welcome! 👋
+
+Hello World! Nice to see you 😄 
+
+<hr />
+- 🔭 I’m currently working on Bandung City Health Office <br />
+- 🌱 I’m currently learning Front-End Web Development <br />
+
+### ⚡ Technologies
+<br />
+
+
+
+
 
 <!--
 **dodisutarya/dodisutarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
