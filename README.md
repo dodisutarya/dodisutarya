@@ -4,7 +4,7 @@ Hello World! Nice to see you 😄
 
 <hr />
 - 🔭 I’m currently working on Bandung City Health Office <br />
-- 🌱 I’m currently learning Front-End Web Development <br />
+- 🌱 I’m currently learning Web Development <br />
 
 ### ⚡ Technologies
 <br />
